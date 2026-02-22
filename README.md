@@ -115,10 +115,12 @@ networking-practices/
 ├── readme.md
 ├── baseline/
 │   ├── github_day1.png
-│   └── linkdedin1_day1.png
+│   └── linkedin_day1.png
 ├── final-profiles/
-│   ├── github_final.png
-│   ├── linkedin_final.png
+│   ├── github_complete.png
+│   ├── github_following.png
+│   ├── linkedin_complete.png
+│   ├── linkedin_connections.png
 │   ├── linkedin_posts/
 │   │   ├── post1.png
 │   │   ├── post2.png
@@ -127,16 +129,18 @@ networking-practices/
 │   │   └── post5.png
 ├── github-exploration/
 │   ├── forked-repositories/
+│   │   └── image.png
 │   ├── starred-repositories/
+│   │   └── github_day1.png
 │   ├── followed-developers/
 │   │   ├── github_followers.png
 │   │   └── github_following.png
 │   └── community-participation/
-│       ├── descord.png
-│       ├── gethub.png
-│       └── meduim.png
+│       ├── discord.png
+│       ├── github.png
+│       └── medium.png
 └── market-engagement/
     └──  professional_connections/
-        ├── image copy.png
-        └── image.png
+        ├── image1.png
+        └── image2.png
 ```
